@@ -1,0 +1,9 @@
+build
+coverage
+cache
+out
+public
+node_modules
+deploy
+react-doka
+.*
